@@ -1,0 +1,7 @@
+files/*
+images/*
+.venv
+*.png
+*.aiff
+audio/
+audio_images/
