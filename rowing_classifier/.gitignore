@@ -1,0 +1,6 @@
+_images/
+*_images/
+export.pkl
+.venv
+*.pkl
+sweep_scull/*
