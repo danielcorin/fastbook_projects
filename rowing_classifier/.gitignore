@@ -3,4 +3,4 @@ _images/
 export.pkl
 .venv
 *.pkl
-sweep_scull/*
+sweep_scull
